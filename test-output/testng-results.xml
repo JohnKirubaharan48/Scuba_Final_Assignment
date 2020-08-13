@@ -2,42 +2,42 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
     <line>
-      <![CDATA[13-Aug-2020 01:31:12 PM : <a target=_blank href=screenshots/screenshot_1.png>Browser Is Opened  </a>]]>
+      <![CDATA[13-Aug-2020 05:06:01 PM : <a target=_blank href=screenshots/screenshot_1.png>Browser Is Opened  </a>]]>
     </line>
     <line>
-      <![CDATA[13-Aug-2020 01:31:15 PM : <a target=_blank href=screenshots/screenshot_2.png>Url Is Launched  </a>]]>
+      <![CDATA[13-Aug-2020 05:06:04 PM : <a target=_blank href=screenshots/screenshot_2.png>Url Is Launched  </a>]]>
     </line>
     <line>
-      <![CDATA[13-Aug-2020 01:31:16 PM : <a target=_blank href=screenshots/screenshot_3.png>Form Is Launched  </a>]]>
+      <![CDATA[13-Aug-2020 05:06:05 PM : <a target=_blank href=screenshots/screenshot_3.png>Form Is Launched  </a>]]>
     </line>
     <line>
-      <![CDATA[13-Aug-2020 01:31:23 PM : <a target=_blank href=screenshots/screenshot_4.png>Form Details are entered  </a>]]>
+      <![CDATA[13-Aug-2020 05:06:12 PM : <a target=_blank href=screenshots/screenshot_4.png>Form Details are entered  </a>]]>
     </line>
     <line>
-      <![CDATA[13-Aug-2020 01:31:28 PM : <a target=_blank href=screenshots/screenshot_5.png>Form Submit Details are Captured  </a>]]>
+      <![CDATA[13-Aug-2020 05:06:18 PM : <a target=_blank href=screenshots/screenshot_5.png>Form Submit Details are Captured  </a>]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="21326" started-at="2020-08-13T13:31:08 IST" finished-at="2020-08-13T13:31:29 IST">
+  <suite name="Default suite" duration-ms="22611" started-at="2020-08-13T17:05:56 IST" finished-at="2020-08-13T17:06:19 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="21326" started-at="2020-08-13T13:31:08 IST" finished-at="2020-08-13T13:31:29 IST">
+    <test name="Default test" duration-ms="22611" started-at="2020-08-13T17:05:56 IST" finished-at="2020-08-13T17:06:19 IST">
       <class name="com.maveric.scuba.tests.demoqa.Demoqa">
-        <test-method status="PASS" signature="ProfileForm()[pri:1, instance:com.maveric.scuba.tests.demoqa.Demoqa@a3d8174]" name="ProfileForm" duration-ms="21298" started-at="2020-08-13T13:31:08 IST" finished-at="2020-08-13T13:31:29 IST">
+        <test-method status="PASS" signature="ProfileForm()[pri:1, instance:com.maveric.scuba.tests.demoqa.Demoqa@cad498c]" name="ProfileForm" duration-ms="22563" started-at="2020-08-13T17:05:56 IST" finished-at="2020-08-13T17:06:19 IST">
           <reporter-output>
             <line>
-              <![CDATA[13-Aug-2020 01:31:12 PM : <a target=_blank href=screenshots/screenshot_1.png>Browser Is Opened  </a>]]>
+              <![CDATA[13-Aug-2020 05:06:01 PM : <a target=_blank href=screenshots/screenshot_1.png>Browser Is Opened  </a>]]>
             </line>
             <line>
-              <![CDATA[13-Aug-2020 01:31:15 PM : <a target=_blank href=screenshots/screenshot_2.png>Url Is Launched  </a>]]>
+              <![CDATA[13-Aug-2020 05:06:04 PM : <a target=_blank href=screenshots/screenshot_2.png>Url Is Launched  </a>]]>
             </line>
             <line>
-              <![CDATA[13-Aug-2020 01:31:16 PM : <a target=_blank href=screenshots/screenshot_3.png>Form Is Launched  </a>]]>
+              <![CDATA[13-Aug-2020 05:06:05 PM : <a target=_blank href=screenshots/screenshot_3.png>Form Is Launched  </a>]]>
             </line>
             <line>
-              <![CDATA[13-Aug-2020 01:31:23 PM : <a target=_blank href=screenshots/screenshot_4.png>Form Details are entered  </a>]]>
+              <![CDATA[13-Aug-2020 05:06:12 PM : <a target=_blank href=screenshots/screenshot_4.png>Form Details are entered  </a>]]>
             </line>
             <line>
-              <![CDATA[13-Aug-2020 01:31:28 PM : <a target=_blank href=screenshots/screenshot_5.png>Form Submit Details are Captured  </a>]]>
+              <![CDATA[13-Aug-2020 05:06:18 PM : <a target=_blank href=screenshots/screenshot_5.png>Form Submit Details are Captured  </a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- ProfileForm -->

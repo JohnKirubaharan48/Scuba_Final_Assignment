@@ -102,3 +102,21 @@
 2020-08-13 15:39:53.369 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-13_Aug_2020_03_39_53_PM
 2020-08-13 15:39:56.290 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
 2020-08-13 15:40:15.058 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-08-13 17:05:55.583 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-08-13 17:05:55.606 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-08-13 17:05:55.606 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-08-13 17:05:55.608 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-13_Aug_2020_05_05_55_PM
+2020-08-13 17:05:59.729 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-08-13 17:06:19.056 [TestNG-test=Default test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-08-13 17:07:41.563 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-08-13 17:07:41.566 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-08-13 17:07:41.566 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-08-13 17:07:41.567 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-13_Aug_2020_05_07_41_PM
+2020-08-13 17:07:44.611 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-08-13 17:08:05.609 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
+2020-08-13 17:08:26.659 [main] INFO  com.maveric.core.testng.listeners.ReportListener - reports folder created successfully :./reports/test-output-13_Aug_2020_05_08_26_PM
+2020-08-13 17:08:26.678 [main] INFO  com.maveric.core.testng.listeners.TestListener - Thread Count : 1
+2020-08-13 17:08:26.679 [main] INFO  com.maveric.core.testng.listeners.TestListener - Data Provider Count : 1
+2020-08-13 17:08:26.679 [main] INFO  com.maveric.core.testng.listeners.TestListener - Parallel Type : Methods
+2020-08-13 17:08:29.793 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Setup Completed
+2020-08-13 17:08:49.022 [TestNG-test=Test-1] INFO  com.maveric.core.testng.listeners.DriverListener - Driver Quit Completed
